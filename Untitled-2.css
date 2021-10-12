@@ -65,7 +65,7 @@ nav  {
     font-family: 'Roboto Slab', serif;
     color: white;
     text-decoration: none;
-    padding-left: 20px;
+    padding-left: 50px;
 }
 #button{
     
@@ -76,7 +76,7 @@ nav  {
     
 }
 #bb{
-    margin-left: 320px;
+    margin-left: 340px;
     outline: none;
     border: none;
     border-color: 3px solid rgba(255, 16, 68, 0.61) ;
